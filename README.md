@@ -1,19 +1,11 @@
 <h1 align="center">Hi there👋, I'm Abdul!</h1>
-
-
-<p align="center">Check out my <a href="#">portfolio</a> website to get to know about me and my tech stack.!</p>
-
-<!--
-**moeidejaz/moeidejaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I am a computer science student currently pursuing my degree. Concurrently, I am enhancing my web development skills out of passion, and I am enthusiastic about using the latest technologies to stay ahead in this ever-evolving field.</p>
+<h1> Skills </h1>
+<!-- <ul>
+  <li>JavaScript</li>
+  <li>Reactjs</li>
+  <li>Nextjs</li>
+  <li>Tailwind CSS</li>
+  <li>Firebase</li>
+</ul> -->
+<p align="center">Check out my <a href="https://moeidejaz.netlify.app" target="_blank">portfolio</a> to get to know about me and my tech stack.!</p>
