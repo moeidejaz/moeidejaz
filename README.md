@@ -6,4 +6,4 @@ Concurrently, I am enhancing my Web Development skills out of passion, and I am 
 
 Currently, I am learning Backend Development.
 
-[More about me &rarr;](https://moeidejaz.com)
+[More about me &rarr;](https://moeidejaz.vercel.app)
